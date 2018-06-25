@@ -59,7 +59,7 @@
 
 - 将之前默认的路径改为以 `@` 为地址的索引
   > ![image.png](https://upload-images.jianshu.io/upload_images/9064013-f68f00de655ae06f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
- > ![image.png](https://upload-images.jianshu.io/upload_images/9064013-d91ea67d028df791.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+  > ![image.png](https://upload-images.jianshu.io/upload_images/9064013-d91ea67d028df791.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 - 新建 `index` 和 `subpage` 文件夹，内部的文件结构与之前 `SPA` 基本一致，只是将 `store.js` 文件单独提了重来以便数据公用
 - 重点就是新建的 `vue.config.js` 配置文件里面的内容，源码和注释如下所示
 
